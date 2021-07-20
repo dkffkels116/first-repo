@@ -15,7 +15,7 @@ touch XXX.XX 알맞는 형식으로 파일 생성 후 vi XXX.XX 로 작성
 ## 4. git add , git status , git commit , git psuh
 
 git add XXX.XX 후 git status 를 통해 확인
-git commit으로 커밋 후 git push -u orgin brnach XXX(branch 이름)
+git commit으로 커밋 후 git push -u orgin branch XXX(branch 이름)
 
 ## 5. 깃허브 홈페이지로 콜라보 제의
 
